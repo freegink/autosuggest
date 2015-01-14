@@ -1,0 +1,26 @@
+{
+  "name": "googlesuggest",
+  "version": 1.0.0",
+  "homepage": "https://github.com/freegink/googlesuggest",
+  "authors": [
+    "freegink"
+  ],
+  "description": "A jQuery/Zepto plugin to get input suggestions from Google.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery-plugin",
+    "zepto-plugin",
+    "input",
+    "suggestions"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
