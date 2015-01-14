@@ -9,6 +9,7 @@
   "moduleType": [
     "globals"
   ],
+  "main": ["./dist/googlesuggest.min.js"]
   "keywords": [
     "jquery-plugin",
     "zepto-plugin",
