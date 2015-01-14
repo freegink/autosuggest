@@ -24,7 +24,7 @@ The following types of input fields are supported:
 ```
 $('input[type=text]').googleSuggest({
     menuClass: 'dropdown',
-    itemHighlightedClass: 'dropdown-highlighted'',
+    itemHighlightedClass: 'dropdown-highlighted',
     maxItemCount: 10
 });
 ```
