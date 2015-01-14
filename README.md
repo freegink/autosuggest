@@ -2,11 +2,11 @@
 A jQuery / Zepto plugin to get input suggestions from Google
 
 ### Installation
-#### NPM
+##### NPM
 ```
 npm install googlesuggest
 ```
-#### Bower
+##### Bower
 ```
 bower install googlesuggest
 ```
@@ -21,11 +21,13 @@ The following types of input fields are supported:
 * search
 
 ### Usage
+```
 $('input[type=text]').googleSuggest({
     menuClass: 'dropdown',
     itemHighlightedClass: 'dropdown-highlighted'',
     maxItemCount: 10
 });
+```
 
 ### Options
 * menuContainer - Optional. The container to host the suggestion menu. If not specfied, the parent of the input field will be used.
